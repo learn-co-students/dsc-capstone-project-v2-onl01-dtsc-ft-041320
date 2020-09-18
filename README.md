@@ -58,15 +58,19 @@
 
 
 - Synthetic Data
+
 - ![capstonepic2.png](capstonepic2.png)
 
 - Real data
+
 ![capstonepic2.5.png](capstonepic2.5.png)
 
 - Synth Data
+
 ![capstonepic1.png](capstonepic1.png)
 
 - Real Data
+
 ![capstonepic1.5.png](capstonepic1.5.png)
 
 ### Results of Training with Synthetic Dataset and Real Training Dataset
