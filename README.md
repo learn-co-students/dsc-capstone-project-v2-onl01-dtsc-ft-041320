@@ -83,5 +83,5 @@
 # Further work
 - I would like to combine both the synth dataset and the real training dataset and see how the classification or regression preform
 - I would like to try this frame work on a much larger platform such as SQL or Spark
-- I would want to see what the make rows I can generate 
+- I would want to see what the more rows I can generate 
 - I would like to see if in fact the more rows the better performance 
