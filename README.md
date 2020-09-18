@@ -73,7 +73,8 @@
 
 ![capstonepic1.5.png](capstonepic1.5.png)
 
-### Results of Training with Synthetic Dataset and Real Training Dataset
+### Results of Training with Synthetic Dataset and Real Training Dataset on Pump It dataset
+- Classifing Wells:
 - Synth with 56,000 rows  = 72%
 - Real with 59,4000 rows = 80%
 
